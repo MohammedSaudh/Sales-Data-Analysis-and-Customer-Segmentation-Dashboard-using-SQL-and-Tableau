@@ -1,0 +1,93 @@
+﻿CUSTOMERNAME,Recency,Frequency,Monetory,rfm_Monetory,rfm_Frequency,rfm_Recency,rfm_score,rfm_score_string,rfm_Segment
+Boards & Toys Co.,112,3,9129.349854,1,1,3,5,311,new_customer
+Atelier graphique,187,7,24179.95996,1,1,2,4,211,lost_customer
+Auto-Moto Classics Inc.,179,8,26479.25977,1,1,3,5,311,new_customer
+Microscale Inc.,209,10,33144.92981,1,1,2,4,211,lost_customer
+Royale Belge,141,8,33440.10034,1,1,3,5,311,new_customer
+"Bavarian Collectables Imports, Co.",258,14,34993.92004,1,1,1,3,111,lost_customer
+"Double Decker Gift Stores, Ltd",495,12,36019.03943,1,1,1,3,111,lost_customer
+Cambridge Collectables Co.,388,11,36163.62,1,1,1,3,111,lost_customer
+West Coast Collectables Co.,488,13,46084.63953,1,1,1,3,111,lost_customer
+"Men 'R' US Retailers, Ltd.",508,14,48048.46021,1,1,1,3,111,lost_customer
+CAF Imports,438,13,49642.05029,1,1,1,3,111,lost_customer
+Signal Collectibles Ltd.,476,15,50218.50989,1,1,1,3,111,lost_customer
+Mini Auto Werke,82,15,52263.90015,1,1,3,5,311,new_customer
+"Iberia Gift Imports, Corp.",237,15,54723.62115,1,1,1,3,111,lost_customer
+Online Mini Collectables,263,15,57197.96008,1,1,1,3,111,lost_customer
+Gift Ideas Corp.,178,19,57294.41986,1,1,3,5,311,new_customer
+"Clover Collections, Co.",257,16,57756.4303,1,1,1,3,111,lost_customer
+"Australian Gift Network, Co",118,15,59469.12012,1,1,3,5,311,new_customer
+"Australian Collectables, Ltd",22,23,64591.45947,1,2,4,7,421,potential_churner
+Auto Assoc. & Cie.,232,18,64834.32019,1,1,1,3,111,lost_customer
+"Classic Gift Ideas, Inc",229,21,67506.97021,1,2,2,5,221,slipping_away
+Osaka Souveniers Co.,413,20,67605.07031,1,2,1,4,121,lost_customer
+Daedalus Designs Imports,465,20,69052.41077,1,2,1,4,121,lost_customer
+Alpha Cognac,64,20,70488.44092,2,2,4,8,422,active
+Diecast Collectables,400,18,70859.78046,2,1,1,4,112,lost_customer
+Quebec Home Shopping Network,30,22,74204.79053,2,2,4,8,422,active
+Mini Wheels Co.,194,21,74476.1803,2,2,2,6,222,potential_churner
+"Royal Canadian Collectables, Ltd.",284,26,74634.84985,2,3,1,6,132,lost_customer
+Marseille Mini Autos,145,25,74936.14001,2,2,3,7,322,potential_churner
+Petit Auto,1,25,74972.51929,2,2,4,8,422,active
+Canadian Gift Exchange Network,221,22,75238.91956,2,2,2,6,222,potential_churner
+"Volvo Model Replicas, Co",193,19,75754.87964,2,1,2,5,212,lost_customer
+Classic Legends Inc.,191,20,77795.19995,2,2,2,6,222,potential_churner
+giftsbymail.co.uk,211,26,78240.83984,2,3,2,7,232,slipping_away
+Enaco Distributors,188,23,78411.86023,2,2,2,6,222,potential_churner
+Lyon Souveniers,75,20,78570.33972,2,2,4,8,422,active
+"Norway Gifts By Mail, Co.",283,24,79224.22998,2,2,1,5,122,lost_customer
+Super Scale Inc.,392,17,79472.07031,2,1,1,4,112,lost_customer
+Mini Caravy,47,19,80438.47986,2,1,4,7,412,new_customer
+Collectables For Less Inc.,131,24,81577.97998,2,2,3,7,322,potential_churner
+Signal Gift Stores,183,29,82751.07922,2,3,3,8,332,active
+Gifts4AllAges.com,25,26,83209.88007,2,2,4,8,422,active
+Tekni Collectables Inc.,58,21,83228.18921,2,2,4,8,422,active
+Motor Mint Distributors Inc.,195,23,83682.16089,2,2,2,6,222,potential_churner
+"Blauer See Auto, Co.",207,22,85171.58948,2,2,2,6,222,potential_churner
+Mini Classics,228,26,85555.98962,2,3,2,7,232,slipping_away
+Collectable Mini Designs Co.,460,25,87489.2301,3,2,1,6,123,lost_customer
+Vitachrome Inc.,207,25,88041.26001,3,2,2,7,223,potential_churner
+"Stylish Desk Decors, Co.",179,26,88804.50037,3,3,3,9,333,active
+Auto Canal Petit,54,27,93170.65955,3,3,4,10,433,loyal
+Cruz & Sons Co.,196,26,94015.73047,3,3,2,8,233,potential_churner
+Amica Models & Co.,264,26,94117.25989,3,3,1,7,133,slipping_away
+"La Corne D'abondance, Co.",192,23,97203.68097,3,2,2,7,223,potential_churner
+FunGiftIdeas.com,89,26,98923.72888,3,3,3,9,333,active
+"Toms Spezialitten, Ltd",227,26,100306.5802,3,3,2,8,233,potential_churner
+Heintze Collectables,221,27,100595.5498,3,3,2,8,233,potential_churner
+Gift Depot Inc.,26,25,101894.7911,3,2,4,9,423,new_customer
+Marta's Replicas Co.,230,27,103080.3793,3,3,1,7,133,slipping_away
+"Oulu Toy Supplies, Inc.",120,32,104370.3807,3,3,3,9,333,active
+Toys4GrownUps.com,139,30,104561.9593,3,3,3,9,333,active
+Mini Creations Ltd.,144,35,108951.1298,3,4,3,10,343,slipping_away
+"Toys of Finland, Co.",111,30,111250.3788,3,3,3,9,333,active
+Herkku Gifts,270,29,111640.2799,3,3,1,7,133,slipping_away
+Suominen Souveniers,145,30,113961.1509,3,3,3,9,333,active
+Handji Gifts& Co,38,36,115498.7297,3,4,4,11,443,loyal
+Baane Mini Imports,207,32,116599.1898,3,3,2,8,233,potential_churner
+"Vida Sport, Ltd",274,31,117713.5586,3,3,1,7,133,slipping_away
+"UK Collectables, Ltd.",53,29,118008.2697,3,3,4,10,433,loyal
+"Tokyo Collectables, Ltd",39,32,120562.7403,3,3,4,10,433,loyal
+"Corrida Auto Replicas, Ltd",211,32,120615.2802,4,3,2,9,234,slipping_away
+Technics Stores Inc.,146,34,120783.0704,4,4,3,11,344,slipping_away
+Diecast Classics Inc.,1,31,122138.14,4,3,4,11,434,loyal
+Online Diecast Creations Co.,208,34,131685.2995,4,4,2,10,244,slipping_away
+Scandinavian Gift Ideas,89,38,134259.3306,4,4,3,11,344,slipping_away
+Reims Collectables,62,41,135042.9401,4,4,4,12,444,loyal
+Rovelli Gifts,200,48,137955.7202,4,4,2,10,244,slipping_away
+L'ordine Souveniers,21,39,142601.3309,4,4,4,12,444,loyal
+"Saveley & Henriot, Co.",455,41,142874.25,4,4,1,9,144,slipping_away
+Danish Wholesale Imports,46,36,145041.6008,4,4,4,12,444,loyal
+Salzburg Collectables,14,40,149798.6302,4,4,4,12,444,loyal
+Corporate Gift Ideas Co.,97,41,149882.5002,4,4,3,11,344,slipping_away
+Souveniers And Things Co.,2,46,151570.9799,4,4,4,12,444,loyal
+"Anna's Decorations, Ltd",83,46,153996.1292,4,4,3,11,344,slipping_away
+"AV Stores, Co.",195,51,157807.8096,4,4,2,10,244,slipping_away
+The Sharp Gifts Warehouse,39,40,160010.2703,4,4,4,12,444,loyal
+Land of Toys Inc.,197,49,164069.4393,4,4,2,10,244,slipping_away
+"Dragon Souveniers, Ltd.",90,43,172989.6805,4,4,3,11,344,slipping_away
+La Rochelle Gifts,0,53,180124.8997,4,4,4,12,444,loyal
+Muscle Machine Inc,181,48,197736.9402,4,4,3,11,344,slipping_away
+"Australian Collectors, Co.",183,55,200995.4102,4,4,3,11,344,slipping_away
+Mini Gifts Distributors Ltd.,2,180,654858.0581,4,4,4,12,444,loyal
+Euro Shopping Channel,0,259,912294.1105,4,4,4,12,444,loyal
